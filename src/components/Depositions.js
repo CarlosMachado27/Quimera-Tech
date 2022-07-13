@@ -2,7 +2,9 @@ import React from "react";
 
 const Depositions = () => {
   return (
-    <div> Depositions</div>
+    <div>
+      <h1>Depositions</h1>
+    </div>
   )
 }
 
